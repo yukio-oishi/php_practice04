@@ -1,10 +1,11 @@
 <?php
 
-$fruits = array("apple","peach","banana","pineapple","orange");
+$fruits = array("apple","orange","pineapple","peach","lemon");
 
-/*foreachで順番に出力する*/
+/* foreach文で順番に出力*/
 foreach($fruits as $fruit){
     echo $fruit;
-/*"\n"は改行*/
+    
+/* "\n"は改行*/
     echo "\n";
 }

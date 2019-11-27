@@ -3,7 +3,7 @@
 $name = "yukio";
 
 if($name =="yukio"){
-    echo "私はあなたの名前です";
+    echo "私はyukioです";
 } else {
-    echo "あなたの名前ではありません";
+    echo "yukioではありません";
 }
